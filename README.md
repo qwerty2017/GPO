@@ -1,2 +1,2 @@
-# 5F_GPO
-Gestione Progetto 5F
+# Gestione Progetto ed organizzazione aziendale
+Repository di sviluppo per progetti software
